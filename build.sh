@@ -1,0 +1,11 @@
+javac -g src/main/cardgame/common/Rank.java -cp bin -d bin
+javac -g src/main/cardgame/common/Suit.java -cp bin -d bin
+javac -g src/main/cardgame/common/Card.java -cp bin -d bin
+javac -g src/main/cardgame/common/Hand.java -cp bin -d bin
+javac -g src/main/cardgame/poker/PokerRank.java -cp bin -d bin
+javac -g src/main/cardgame/poker/PokerHand.java -cp bin -d bin
+javac -g src/main/cardgame/common/Player.java -cp bin -d bin
+javac -g src/main/cardgame/common/Deck.java -cp bin -d bin
+javac -g src/main/cardgame/common/Game.java -cp bin -d bin
+javac -g src/main/cardgame/poker/FiveCardDraw.java -cp bin -d bin
+javac -g src/main/cardgame/CardGame.java -cp bin -d bin
